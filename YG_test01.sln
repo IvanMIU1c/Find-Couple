@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{107C4E82-BA13-69DE-8C46-7DA1C6A5A034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nox7atra.unity-figma-gradients", "nox7atra.unity-figma-gradients.csproj", "{BD754717-F119-5A3B-6CC8-DBFB1A41FCD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nox7atra.unity-figma-gradients.Editor", "nox7atra.unity-figma-gradients.Editor.csproj", "{BD957578-A375-F9AF-3740-B0A84045AB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107C4E82-BA13-69DE-8C46-7DA1C6A5A034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107C4E82-BA13-69DE-8C46-7DA1C6A5A034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107C4E82-BA13-69DE-8C46-7DA1C6A5A034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107C4E82-BA13-69DE-8C46-7DA1C6A5A034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD754717-F119-5A3B-6CC8-DBFB1A41FCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD754717-F119-5A3B-6CC8-DBFB1A41FCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD754717-F119-5A3B-6CC8-DBFB1A41FCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD754717-F119-5A3B-6CC8-DBFB1A41FCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD957578-A375-F9AF-3740-B0A84045AB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD957578-A375-F9AF-3740-B0A84045AB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD957578-A375-F9AF-3740-B0A84045AB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD957578-A375-F9AF-3740-B0A84045AB01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
